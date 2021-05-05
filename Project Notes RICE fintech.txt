@@ -1,0 +1,104 @@
+Pandemic Pandas - brainstorm package
+
+Project Title:  "How Covid Changed Retail"
+	
+1.  Topics of Discussion	
+
+	(pre trajectory/post trajectory/current projectory)	of the impact of businesses pre and post pandemic
+
+	companies that boomed and companies that busted	            (what was impacted during the pandemic)  (financial impacts of pandemic)
+
+	online shopping/ ecommerce
+	small businesses and inability to recover even with stimulus.... small business inability to access those government funds vs. big companies know how to get the funding
+	pandmic before and after
+
+	(how is it that big companies got big money and small companies didnt get anything.)
+
+	retail/online/  what are people are buying
+	retail online   walmart+  delivery  1 day delivery
+	uber apps
+	we can pull data on companies that bankrupt....
+	pivot to online or die
+	rate of acceleration from delivery good or service and compare to
+	
+	What products are people buying past/post pandemic (percentage of services lost?)  fast food delivery growth
+	which stocks are investors buying
+	brick and morter retail stores
+
+	what happen to amazon during the pandemic
+	Fast food delivery
+	uber eats/delivery of beer and ciggs
+	lyft:  small companies partnering with deliveryapps   mcdonalds, taco bell, etc, walmart, target, amazon, HEB, curbside pickup
+
+	example:  nobody goes to AMC theatre anymore,  people started using netflix, and watching movies straight from online streaming
+	example:  auto parts industry, before you go to autozone oriely autoparts to get parts/ future will be online delivery of auto parts   buy auto parts stores that have a plan to do online
+	
+
+2.  overview of numbers in pandemic and how it affects....	
+	
+
+Team Members:
+	
+	Ryan
+	Bilikisu
+	Frank
+	Quang
+
+
+project description/outline:
+
+1.  Ryan - Brief discription of pre=pandemic state vs. how that trajectory was accelerated post pandemic , mention about each sector/industry  (2 minutes) 
+2.  Bilikisu - online ecommmerce (retail in general)   api-credit card usage data,from census.gov (722 food services, ---->  how it changed their business model to transistion to food delivery  (2 mins)
+3.  Frank - how food insdustry was affected... how food delivery
+4.  Quang - trajectory on what the future will hold
+
+Conclusion:  new norm is increase in new online businesses, online only, strip center real estate prices will crash, people will not need to go to physical locations anymore`
+````		(identify sectors that will boom)
+			uber eats, grub hub, door dash, waiter, deliveroo, slice
+
+		a new industry:  pre prepared foods, online clothing shopping(take measurements online and send you clothing),   
+
+
+
+research questoins to answer:
+
+1.  is it going to slowdown, accelerate, etc...
+2.  Where were we in terms of business trajectory
+3.  Where are we currently in terms of
+4.  What does the future hold for
+5.  What are the projections
+
+we find that these industries/sectors will explode or have a dramatic influx
+where is fintech going?
+
+
+
+
+datasets to use:
+
+
+1.	Credit card usage data
+2.	online delivery data
+3.	food industry data - 3-5 big companies in the food industry   grubhub, ubereats, doordash
+4.	3 or 4 quarters leading up to pandemic  growth in industries (ecommerce, brick and morter, food delivery)
+5.      stock data from alpacas, stock prices, 
+6.      data on small companies in those sectors taht went bankrupt, data on new companies that started after pandemic
+7.	
+
+Potentential API Data:
+
+1.	Statistics of unemployed/ industires impact       
+2.	parseur.com ----> api data on info of food delivery
+3.	quarterly retail ecommerce sales, estimated change in monthly sales for retail and food services
+4.	census.gov, bea.gov
+5.	
+
+rough breakdown of task  
+
+1.	
+2.	
+
+
+
+
+
