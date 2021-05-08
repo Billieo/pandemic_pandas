@@ -9,13 +9,15 @@ Census [census's Website](https://www.census.gov/econ/currentdata/dbsearch?progr
 
 Alpaca [Alpaca's Website](https://alpaca.markets/)
 
+WHO [Who's Website](https://www.who.int/)
+
 
 
 
 ### Data cleaning process
 Clean the data, dropped null, rename columns and read clean data to an output file.
 
-# Anaysis
+# Analysis
 
 ## Pandemic analysis
 * Since Covid-19 reached our shores, it has had an impact on all facets of life. The Pandemic Pandas decided to analyze the impacts to the retail sector and more specifically the food service industry and brick and mortar department stores
@@ -68,7 +70,7 @@ We can infer that at the height of pandemic which is march 2020 to April 2020 ev
 Stock Price Daily plotted between August of 2018 and April of2021. Did these stocks go up or down?
 ![alttext](image/stockpostpandemic.png)
 
-The blue line represents the linear regression and the Trajectory of the Stock price.The trajectory of online essentials and businesses that pivoted to online will continue to grow
+The blue line represents the linear regression and the Trajectory of the Stock price.The trajectory of online essentials and businesses that pivoted to online will continue to grow
 ![alttext](image/Amazonprice.png)
 
 
