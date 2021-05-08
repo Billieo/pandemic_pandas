@@ -22,7 +22,7 @@ Clean the data, dropped null, rename columns and read clean data to an output fi
 ## Pandemic analysis
 * Since Covid-19 reached our shores, it has had an impact on all facets of life. The Pandemic Pandas decided to analyze the impacts to the retail sector and more specifically the food service industry and brick and mortar department stores
 
-## Our hypothesis:
+## Our hypothesis:
 * The pandemic had a negative impact on stock data and overall company evaluation numbers. Below are charts that will introduce you to our analysis
 
 First chart showing the overall food and retail store sales volumes from January 2018 until March 2021
